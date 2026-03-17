@@ -1,0 +1,4 @@
+STREAKS_YEAR = 2024
+USERNAME = "lazulinoother"
+TOP_CHARTS_PERIOD = "year"
+ATTACHMENT_INDEX_PERIOD = "month"
